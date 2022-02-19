@@ -1,3 +1,14 @@
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/Aryan-Mfc">
+        <img
+src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Facebook+Accounts+Cracking+Tool+By+Redhackers+Army"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
+
 # Cracker Tool
 Facebook Accounts Fast cracker
 
