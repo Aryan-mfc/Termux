@@ -28,7 +28,7 @@ $ cd Termux
 $ ls
 $ git pull
 $ chmod +x *
-$ python2 Fbhack7.py
+$ python Fbhack7.py
 
  Tool Installation successful
 
@@ -46,7 +46,7 @@ git clone https://github.com/Aryan-mfc/Termux
 cd Termux
 git pull
 chmod +x *
-python2 Fbhack7.py
+python Fbhack7.py
 
  Tool Installation successful
 
@@ -62,7 +62,7 @@ git clone https://github.com/Aryan-mfc/Termux
 cd Termux
 git pull
 chmod +x *
-python2 Fbhack7.py
+python Fbhack7.py
 
 
 
@@ -90,7 +90,7 @@ git clone https://github.com/Aryan-mfc/Termux
 cd Termux
 git pull
 chmod +x *
-python2 Fbhack7.py
+python Fbhack7.py
 
 Tool Installation successful
 
