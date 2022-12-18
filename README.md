@@ -12,6 +12,37 @@ src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Facebook+A
 # Cracker Tool
 Facebook Accounts Fast cracker
 
+# Facebook Account Cracking Tool
+ 
+This is a tool that will help you crack Facebook account very quickly.  You also need a token to run this tool.  You will understand how to get it when you run the tool
+
+#
+
+# Tool Requirements 
+
++ Version from Termux 2021 onwards
+
+ + Net Usage : 20 Mb
+
++ Storage 50mb Above
+
++ Stable Connection
+
+#  Cracking Method
+
++ Multi Pass Cracking Tool,This is a Any Random Accounts Passwords Finder
+
+
+# Tool Features
+
++ Random Accounts Cracker
++ Without Wordlist
++ Proxy Already Added
++ Fast Cracking
++ Usernames/Ids File Maker
++ Two Factor Accounts Finder
++ Super Brute Mode
+
 ### Installation On Termux
  
  
@@ -53,6 +84,8 @@ python Fbhack7.py
 
 ```
 
+
+
 #### For Debian-based GNU/Linux distributions
  
 To use the application, type in the following commands in GNU/Linux terminal.
@@ -71,6 +104,32 @@ python Fbhack7.py
 
 
 ```
+
+#### How To Make Cookie/Token
+
+Download Access Token App : https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/amp
+
+Then Make Your Aceess Token
+
+
+### Or
+
+Install kiwi browser
+Create fake Facebook account 
+
+Open kiwi browser type www.facebook.com and log in it (fake fb account )
+
+Open new tab type "cookie dough extension" 
+
+Click chrome web store link (first link)
+
+Then add the get aceess token extension in your kiwi browser. 
+
+Go to previous tab 
+
+Fb account tab open 
+
+Just click three dot menu and scroll down let you can see the extension. Now click the extension. Done you can see your token.
 
 
 ##### Install Brew
